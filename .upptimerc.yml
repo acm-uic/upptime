@@ -9,6 +9,10 @@ sites:
     url: https://acmuic.org
   - name: acm.cs.uic.edu
     url: https://acm.cs.uic.edu
+  - name: plausible.acmuic.org
+    url: https://plausible.acmuic.org
+  - name: typesense.acmuic.org
+    url: https://typesense.acmuic.org
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
