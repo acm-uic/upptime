@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 57,
-    "timeDay": 57,
-    "timeWeek": 57,
-    "timeMonth": 57,
-    "timeYear": 57,
+    "time": 56,
+    "timeDay": 56,
+    "timeWeek": 56,
+    "timeMonth": 56,
+    "timeYear": 56,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 283,
-    "timeDay": 283,
-    "timeWeek": 283,
-    "timeMonth": 283,
-    "timeYear": 283,
+    "time": 285,
+    "timeDay": 285,
+    "timeWeek": 285,
+    "timeMonth": 285,
+    "timeYear": 285,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 238,
-    "timeDay": 238,
-    "timeWeek": 238,
-    "timeMonth": 238,
-    "timeYear": 238,
+    "time": 260,
+    "timeDay": 260,
+    "timeWeek": 260,
+    "timeMonth": 260,
+    "timeYear": 260,
     "dailyMinutesDown": {}
   },
   {
@@ -59,18 +59,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/plausible.acmuic.org.ico",
     "slug": "plausible-acmuic-org",
     "status": "down",
-    "uptime": "42.44%",
-    "uptimeDay": "42.44%",
-    "uptimeWeek": "42.44%",
-    "uptimeMonth": "42.44%",
-    "uptimeYear": "42.44%",
+    "uptime": "5.06%",
+    "uptimeDay": "5.06%",
+    "uptimeWeek": "5.06%",
+    "uptimeMonth": "5.06%",
+    "uptimeYear": "5.06%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-06-16": 1
+      "2024-06-16": 9
     }
   },
   {
@@ -79,18 +79,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/typesense.acmuic.org.ico",
     "slug": "typesense-acmuic-org",
     "status": "down",
-    "uptime": "74.68%",
-    "uptimeDay": "74.68%",
-    "uptimeWeek": "74.68%",
-    "uptimeMonth": "74.68%",
-    "uptimeYear": "74.68%",
+    "uptime": "5.20%",
+    "uptimeDay": "5.20%",
+    "uptimeWeek": "5.20%",
+    "uptimeMonth": "5.20%",
+    "uptimeYear": "5.20%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-06-16": 0
+      "2024-06-16": 9
     }
   }
 ]
