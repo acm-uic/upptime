@@ -59,18 +59,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/plausible.acmuic.org.ico",
     "slug": "plausible-acmuic-org",
     "status": "down",
-    "uptime": "3.38%",
-    "uptimeDay": "3.38%",
-    "uptimeWeek": "3.38%",
-    "uptimeMonth": "3.38%",
-    "uptimeYear": "3.38%",
+    "uptime": "0.51%",
+    "uptimeDay": "0.51%",
+    "uptimeWeek": "0.51%",
+    "uptimeMonth": "0.51%",
+    "uptimeYear": "0.51%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-06-16": 14
+      "2024-06-17": 76,
+      "2024-06-16": 23
     }
   },
   {
@@ -79,18 +80,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/typesense.acmuic.org.ico",
     "slug": "typesense-acmuic-org",
     "status": "down",
-    "uptime": "3.56%",
-    "uptimeDay": "3.56%",
-    "uptimeWeek": "3.56%",
-    "uptimeMonth": "3.56%",
-    "uptimeYear": "3.56%",
+    "uptime": "0.50%",
+    "uptimeDay": "0.50%",
+    "uptimeWeek": "0.50%",
+    "uptimeMonth": "0.50%",
+    "uptimeYear": "0.50%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-06-16": 14
+      "2024-06-17": 76,
+      "2024-06-16": 22
     }
   }
 ]
