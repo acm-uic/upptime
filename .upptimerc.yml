@@ -3,16 +3,18 @@ owner: acm-uic # Your GitHub organization or username, where this repository liv
 repo: upptime # The name of this repository
 
 sites:
-  - name: acm-uic.github.io
+  - name: ACM@UIC Website acm-uic.github.io
     url: https://acm-uic.github.io
-  - name: acmuic.org
+  - name: ACM@UIC Website acmuic.org
     url: https://acmuic.org
-  - name: acm.cs.uic.edu
+  - name: ACM@UIC Website acm.cs.uic.edu
     url: https://acm.cs.uic.edu
-  - name: plausible.acmuic.org
+  - name: Plausible Analytics
     url: https://plausible.acmuic.org
-  - name: typesense.acmuic.org
+  - name: ACM@UIC Website Typsense
     url: https://typesense.acmuic.org
+  - name: Pathfinder
+    url: https://umpf.acmuic.org
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
