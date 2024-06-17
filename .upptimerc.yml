@@ -12,7 +12,7 @@ sites:
   - name: Plausible Analytics
     url: https://plausible.acmuic.org
   - name: ACM@UIC Website Typsense
-    url: https://typesense.acmuic.org
+    url: https://typesense.acmuic.org/health
   - name: Pathfinder
     url: https://umpf.acmuic.org
 
