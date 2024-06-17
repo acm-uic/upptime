@@ -21,7 +21,7 @@ status-website:
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/acm-uic/upptime/master/assets/upptime-icon.svg
   name: Upptime
-  introTitle: "https://github.com/acm-uic/upptime"
+  introTitle: ""
   introMessage: ""
   navbar:
     - title: Status
