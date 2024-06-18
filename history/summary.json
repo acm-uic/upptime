@@ -22,19 +22,19 @@
     "url": "https://acmuic.org",
     "icon": "https://icons.duckduckgo.com/ip3/acmuic.org.ico",
     "slug": "acm-uic-website-acmuic-org",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 278,
-    "timeDay": 279,
-    "timeWeek": 278,
-    "timeMonth": 278,
-    "timeYear": 278,
+    "status": "up",
+    "uptime": "98.69%",
+    "uptimeDay": "98.50%",
+    "uptimeWeek": "98.69%",
+    "uptimeMonth": "98.69%",
+    "uptimeYear": "98.69%",
+    "time": 274,
+    "timeDay": 273,
+    "timeWeek": 274,
+    "timeMonth": 274,
+    "timeYear": 274,
     "dailyMinutesDown": {
-      "2024-06-18": 0
+      "2024-06-18": 22
     }
   },
   {
@@ -72,7 +72,7 @@
     "timeMonth": 395,
     "timeYear": 395,
     "dailyMinutesDown": {
-      "2024-06-18": 592,
+      "2024-06-18": 613,
       "2024-06-17": 1036
     }
   },
