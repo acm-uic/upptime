@@ -10,13 +10,13 @@ sites:
   - name: ACM@UIC Website acm.cs.uic.edu
     url: https://acm.cs.uic.edu
   - name: Plausible Analytics
-    url: https://plausible.acmuic.org
+    url: https://plausible.acmuic.org/api/health
   - name: ACM@UIC Website Typesense
     url: https://typesense.acmuic.org/health
   - name: Pathfinder
     url: https://umpf.acmuic.org
   - name: Oven Temp
-    url: https://oventemp.acmuic.org
+    url: https://oventemp.acmuic.org/api/health
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
