@@ -1,7 +1,7 @@
 url: https://oventemp.acmuic.org/api/health
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-03-11T04:21:55.879Z
+status: up
+code: 200
+responseTime: 444
+lastUpdated: 2025-03-11T04:52:07.940Z
 startTime: 2025-02-27T03:13:07.078Z
 generator: Upptime <https://github.com/upptime/upptime>
