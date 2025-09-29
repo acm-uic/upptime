@@ -17,6 +17,8 @@ sites:
     url: https://umpf.acmuic.org
   - name: Oven Temp
     url: https://oventemp.acmuic.org/api/health
+  - name: LUG@UIC website lug.cs.uic.edu
+    url: https://lug.cs.uic.edu
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
