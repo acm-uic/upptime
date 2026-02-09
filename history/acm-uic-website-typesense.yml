@@ -1,7 +1,7 @@
 url: https://typesense.acmuic.org/health
-status: up
-code: 200
-responseTime: 406
-lastUpdated: 2026-02-08T23:19:27.023Z
+status: down
+code: 503
+responseTime: 296
+lastUpdated: 2026-02-09T13:46:44.103Z
 startTime: 2024-06-18T05:11:13.517Z
 generator: Upptime <https://github.com/upptime/upptime>
