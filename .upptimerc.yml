@@ -15,8 +15,6 @@ sites:
     url: https://typesense.acmuic.org/health
   - name: Pathfinder
     url: https://umpf.acmuic.org
-  - name: Oven Temp
-    url: https://oventemp.acmuic.org/api/health
   - name: LUG@UIC website lug.cs.uic.edu
     url: https://lug.cs.uic.edu
 
