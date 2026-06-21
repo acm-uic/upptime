@@ -23,7 +23,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: upptime.acmuic.app
   baseUrl: /upptime
-  logoUrl: https://raw.githubusercontent.com/acm-uic/upptime/master/assets/upptime-icon.svg
+  logoUrl: https://raw.githubusercontent.com/acm-uic/upptime/main/assets/upptime-icon.svg
   name: Upptime
   introTitle: ""
   introMessage: ""
