@@ -34,7 +34,7 @@ jobs:
           ref: ${{ github.head_ref }}
           token: ${{ secrets.GH_PAT || github.token }}
       - name: Update template
-        if: ${{ secrets.GH_PAT != '' }}
+        if: ${{ secrets.GH_PAT }}
         uses: upptime/uptime-monitor@master
         with:
           command: "update-template"
