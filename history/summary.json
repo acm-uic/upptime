@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 132,
-    "timeDay": 102,
-    "timeWeek": 146,
-    "timeMonth": 140,
+    "timeDay": 114,
+    "timeWeek": 132,
+    "timeMonth": 141,
     "timeYear": 136,
     "dailyMinutesDown": {}
   },
@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/acmuic.org.ico",
     "slug": "acm-uic-website-acmuic-org",
     "status": "down",
-    "uptime": "44.41%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
+    "uptime": "44.43%",
+    "uptimeDay": "28.14%",
+    "uptimeWeek": "4.02%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
-    "time": 259,
-    "timeDay": 253,
-    "timeWeek": 169,
-    "timeMonth": 190,
+    "uptimeYear": "0.08%",
+    "time": 258,
+    "timeDay": 213,
+    "timeWeek": 158,
+    "timeMonth": 186,
     "timeYear": 237,
     "dailyMinutesDown": {
-      "2026-06-21": 1319,
+      "2026-06-21": 1321,
       "2026-06-20": 1440,
       "2026-06-19": 1440,
       "2026-06-18": 1440,
@@ -397,8 +397,7 @@
       "2025-06-26": 1440,
       "2025-06-25": 1440,
       "2025-06-24": 1440,
-      "2025-06-23": 1440,
-      "2025-06-22": 1440
+      "2025-06-23": 1440
     }
   },
   {
@@ -408,15 +407,15 @@
     "slug": "acm-uic-website-acm-cs-uic-edu",
     "status": "up",
     "uptime": "91.72%",
-    "uptimeDay": "95.51%",
-    "uptimeWeek": "99.36%",
-    "uptimeMonth": "99.61%",
+    "uptimeDay": "95.40%",
+    "uptimeWeek": "99.34%",
+    "uptimeMonth": "99.60%",
     "uptimeYear": "84.27%",
     "time": 311,
-    "timeDay": 428,
-    "timeWeek": 341,
+    "timeDay": 380,
+    "timeWeek": 300,
     "timeMonth": 299,
-    "timeYear": 307,
+    "timeYear": 306,
     "dailyMinutesDown": {
       "2025-07-14": 27,
       "2025-09-19": 118,
@@ -482,7 +481,7 @@
       "2025-12-31": 12,
       "2026-03-25": 38,
       "2026-05-22": 108,
-      "2026-06-21": 65
+      "2026-06-21": 66
     }
   },
   {
@@ -491,16 +490,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/plausible.acmuic.org.ico",
     "slug": "plausible-analytics",
     "status": "down",
-    "uptime": "74.16%",
+    "uptime": "74.17%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 479,
-    "timeDay": 93,
-    "timeWeek": 190,
-    "timeMonth": 329,
-    "timeYear": 481,
+    "timeDay": 132,
+    "timeWeek": 155,
+    "timeMonth": 315,
+    "timeYear": 480,
     "dailyMinutesDown": {}
   },
   {
@@ -510,15 +509,15 @@
     "slug": "acm-uic-website-typesense",
     "status": "up",
     "uptime": "75.66%",
-    "uptimeDay": "96.18%",
-    "uptimeWeek": "99.45%",
+    "uptimeDay": "96.08%",
+    "uptimeWeek": "99.44%",
     "uptimeMonth": "98.65%",
-    "uptimeYear": "74.58%",
-    "time": 460,
-    "timeDay": 261,
-    "timeWeek": 171,
-    "timeMonth": 434,
-    "timeYear": 447,
+    "uptimeYear": "74.66%",
+    "time": 459,
+    "timeDay": 219,
+    "timeWeek": 163,
+    "timeMonth": 426,
+    "timeYear": 445,
     "dailyMinutesDown": {
       "2025-09-22": 271,
       "2025-09-21": 1440,
@@ -612,7 +611,6 @@
       "2025-06-25": 1440,
       "2025-06-24": 1440,
       "2025-06-23": 1440,
-      "2025-06-22": 1440,
       "2025-12-31": 11,
       "2026-01-01": 17,
       "2026-02-09": 56,
@@ -620,7 +618,7 @@
       "2026-05-22": 107,
       "2026-06-09": 257,
       "2026-06-08": 172,
-      "2026-06-21": 55
+      "2026-06-21": 57
     }
   },
   {
@@ -630,15 +628,15 @@
     "slug": "pathfinder",
     "status": "up",
     "uptime": "91.45%",
-    "uptimeDay": "96.52%",
-    "uptimeWeek": "99.50%",
+    "uptimeDay": "96.42%",
+    "uptimeWeek": "99.49%",
     "uptimeMonth": "98.66%",
     "uptimeYear": "83.74%",
-    "time": 418,
-    "timeDay": 261,
-    "timeWeek": 166,
-    "timeMonth": 309,
-    "timeYear": 376,
+    "time": 419,
+    "timeDay": 224,
+    "timeWeek": 159,
+    "timeMonth": 293,
+    "timeYear": 375,
     "dailyMinutesDown": {
       "2025-09-20": 1097,
       "2025-09-19": 1440,
@@ -705,7 +703,7 @@
       "2026-05-22": 106,
       "2026-06-09": 257,
       "2026-06-08": 171,
-      "2026-06-21": 50
+      "2026-06-21": 52
     }
   },
   {
@@ -715,15 +713,15 @@
     "slug": "lug-uic-website-lug-cs-uic-edu",
     "status": "up",
     "uptime": "99.59%",
-    "uptimeDay": "96.85%",
-    "uptimeWeek": "99.55%",
+    "uptimeDay": "96.76%",
+    "uptimeWeek": "99.54%",
     "uptimeMonth": "96.66%",
     "uptimeYear": "99.59%",
-    "time": 429,
-    "timeDay": 263,
+    "time": 430,
+    "timeDay": 425,
     "timeWeek": 356,
-    "timeMonth": 362,
-    "timeYear": 429,
+    "timeMonth": 367,
+    "timeYear": 430,
     "dailyMinutesDown": {
       "2025-12-07": 34,
       "2025-12-31": 11,
@@ -732,7 +730,7 @@
       "2026-05-22": 106,
       "2026-06-09": 1140,
       "2026-06-08": 171,
-      "2026-06-21": 45
+      "2026-06-21": 47
     }
   }
 ]
