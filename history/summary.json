@@ -25,13 +25,13 @@
     "status": "down",
     "uptime": "44.57%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "29.65%",
+    "uptimeWeek": "29.66%",
     "uptimeMonth": "4.92%",
     "uptimeYear": "0.57%",
     "time": 257,
-    "timeDay": 74,
-    "timeWeek": 155,
-    "timeMonth": 185,
+    "timeDay": 159,
+    "timeWeek": 172,
+    "timeMonth": 187,
     "timeYear": 236,
     "dailyMinutesDown": {
       "2026-06-21": 1321,
@@ -404,17 +404,17 @@
     "url": "https://acm.cs.uic.edu",
     "icon": "https://icons.duckduckgo.com/ip3/acm.cs.uic.edu.ico",
     "slug": "acm-uic-website-acm-cs-uic-edu",
-    "status": "down",
+    "status": "up",
     "uptime": "91.74%",
-    "uptimeDay": "98.64%",
-    "uptimeWeek": "99.15%",
+    "uptimeDay": "98.56%",
+    "uptimeWeek": "99.14%",
     "uptimeMonth": "99.80%",
     "uptimeYear": "84.26%",
     "time": 311,
-    "timeDay": 423,
-    "timeWeek": 380,
-    "timeMonth": 299,
-    "timeYear": 307,
+    "timeDay": 311,
+    "timeWeek": 344,
+    "timeMonth": 295,
+    "timeYear": 306,
     "dailyMinutesDown": {
       "2025-07-14": 27,
       "2025-09-19": 118,
@@ -481,7 +481,7 @@
       "2026-03-25": 38,
       "2026-05-22": 108,
       "2026-06-21": 66,
-      "2026-06-23": 20
+      "2026-06-23": 21
     }
   },
   {
@@ -496,10 +496,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 476,
-    "timeDay": 116,
-    "timeWeek": 129,
-    "timeMonth": 298,
-    "timeYear": 478,
+    "timeDay": 100,
+    "timeWeek": 120,
+    "timeMonth": 290,
+    "timeYear": 477,
     "dailyMinutesDown": {}
   },
   {
@@ -507,16 +507,16 @@
     "url": "https://typesense.acmuic.org/health",
     "icon": "https://icons.duckduckgo.com/ip3/typesense.acmuic.org.ico",
     "slug": "acm-uic-website-typesense",
-    "status": "down",
+    "status": "up",
     "uptime": "75.72%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "99.34%",
+    "uptimeDay": "99.22%",
+    "uptimeWeek": "99.33%",
     "uptimeMonth": "98.87%",
     "uptimeYear": "75.15%",
     "time": 459,
-    "timeDay": 250,
-    "timeWeek": 208,
-    "timeMonth": 417,
+    "timeDay": 255,
+    "timeWeek": 218,
+    "timeMonth": 411,
     "timeYear": 444,
     "dailyMinutesDown": {
       "2025-09-22": 271,
@@ -618,7 +618,7 @@
       "2026-06-09": 257,
       "2026-06-08": 172,
       "2026-06-21": 57,
-      "2026-06-23": 10
+      "2026-06-23": 11
     }
   },
   {
@@ -626,16 +626,16 @@
     "url": "https://umpf.acmuic.org",
     "icon": "https://icons.duckduckgo.com/ip3/umpf.acmuic.org.ico",
     "slug": "pathfinder",
-    "status": "down",
+    "status": "up",
     "uptime": "91.47%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.44%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.42%",
     "uptimeMonth": "98.89%",
     "uptimeYear": "83.74%",
     "time": 419,
-    "timeDay": 423,
-    "timeWeek": 252,
-    "timeMonth": 290,
+    "timeDay": 424,
+    "timeWeek": 286,
+    "timeMonth": 295,
     "timeYear": 375,
     "dailyMinutesDown": {
       "2025-09-20": 1097,
@@ -704,7 +704,7 @@
       "2026-06-09": 257,
       "2026-06-08": 171,
       "2026-06-21": 52,
-      "2026-06-23": 5
+      "2026-06-23": 6
     }
   },
   {
@@ -712,17 +712,17 @@
     "url": "https://lug.cs.uic.edu",
     "icon": "https://icons.duckduckgo.com/ip3/lug.cs.uic.edu.ico",
     "slug": "lug-uic-website-lug-cs-uic-edu",
-    "status": "down",
+    "status": "up",
     "uptime": "99.59%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.53%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.52%",
     "uptimeMonth": "96.90%",
     "uptimeYear": "99.59%",
-    "time": 431,
-    "timeDay": 575,
-    "timeWeek": 449,
-    "timeMonth": 365,
-    "timeYear": 431,
+    "time": 430,
+    "timeDay": 400,
+    "timeWeek": 404,
+    "timeMonth": 360,
+    "timeYear": 430,
     "dailyMinutesDown": {
       "2025-12-07": 34,
       "2025-12-31": 11,
@@ -732,7 +732,7 @@
       "2026-06-09": 1140,
       "2026-06-08": 171,
       "2026-06-21": 47,
-      "2026-06-23": 0
+      "2026-06-23": 2
     }
   }
 ]
