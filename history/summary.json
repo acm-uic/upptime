@@ -13,7 +13,7 @@
     "time": 131,
     "timeDay": 48,
     "timeWeek": 107,
-    "timeMonth": 136,
+    "timeMonth": 138,
     "timeYear": 136,
     "dailyMinutesDown": {}
   },
@@ -23,15 +23,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/acmuic.org.ico",
     "slug": "acm-uic-website-acmuic-org",
     "status": "down",
-    "uptime": "44.51%",
+    "uptime": "44.57%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "17.76%",
-    "uptimeMonth": "2.18%",
-    "uptimeYear": "0.34%",
+    "uptimeWeek": "29.65%",
+    "uptimeMonth": "4.92%",
+    "uptimeYear": "0.57%",
     "time": 257,
     "timeDay": 74,
     "timeWeek": 155,
-    "timeMonth": 183,
+    "timeMonth": 185,
     "timeYear": 236,
     "dailyMinutesDown": {
       "2026-06-21": 1321,
@@ -404,16 +404,16 @@
     "url": "https://acm.cs.uic.edu",
     "icon": "https://icons.duckduckgo.com/ip3/acm.cs.uic.edu.ico",
     "slug": "acm-uic-website-acm-cs-uic-edu",
-    "status": "up",
-    "uptime": "91.73%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.34%",
-    "uptimeMonth": "99.85%",
-    "uptimeYear": "84.27%",
+    "status": "down",
+    "uptime": "91.74%",
+    "uptimeDay": "98.64%",
+    "uptimeWeek": "99.15%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "84.26%",
     "time": 311,
     "timeDay": 423,
     "timeWeek": 380,
-    "timeMonth": 301,
+    "timeMonth": 299,
     "timeYear": 307,
     "dailyMinutesDown": {
       "2025-07-14": 27,
@@ -480,7 +480,8 @@
       "2025-12-31": 12,
       "2026-03-25": 38,
       "2026-05-22": 108,
-      "2026-06-21": 66
+      "2026-06-21": 66,
+      "2026-06-23": 20
     }
   },
   {
@@ -489,7 +490,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/plausible.acmuic.org.ico",
     "slug": "plausible-analytics",
     "status": "down",
-    "uptime": "74.20%",
+    "uptime": "74.23%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -497,8 +498,8 @@
     "time": 476,
     "timeDay": 116,
     "timeWeek": 129,
-    "timeMonth": 305,
-    "timeYear": 479,
+    "timeMonth": 298,
+    "timeYear": 478,
     "dailyMinutesDown": {}
   },
   {
@@ -506,17 +507,17 @@
     "url": "https://typesense.acmuic.org/health",
     "icon": "https://icons.duckduckgo.com/ip3/typesense.acmuic.org.ico",
     "slug": "acm-uic-website-typesense",
-    "status": "up",
-    "uptime": "75.70%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.44%",
-    "uptimeMonth": "98.89%",
-    "uptimeYear": "74.93%",
-    "time": 458,
+    "status": "down",
+    "uptime": "75.72%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "99.34%",
+    "uptimeMonth": "98.87%",
+    "uptimeYear": "75.15%",
+    "time": 459,
     "timeDay": 250,
     "timeWeek": 208,
-    "timeMonth": 415,
-    "timeYear": 445,
+    "timeMonth": 417,
+    "timeYear": 444,
     "dailyMinutesDown": {
       "2025-09-22": 271,
       "2025-09-21": 1440,
@@ -616,7 +617,8 @@
       "2026-05-22": 107,
       "2026-06-09": 257,
       "2026-06-08": 172,
-      "2026-06-21": 57
+      "2026-06-21": 57,
+      "2026-06-23": 10
     }
   },
   {
@@ -624,16 +626,16 @@
     "url": "https://umpf.acmuic.org",
     "icon": "https://icons.duckduckgo.com/ip3/umpf.acmuic.org.ico",
     "slug": "pathfinder",
-    "status": "up",
-    "uptime": "91.46%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.49%",
-    "uptimeMonth": "98.90%",
+    "status": "down",
+    "uptime": "91.47%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.44%",
+    "uptimeMonth": "98.89%",
     "uptimeYear": "83.74%",
     "time": 419,
     "timeDay": 423,
     "timeWeek": 252,
-    "timeMonth": 287,
+    "timeMonth": 290,
     "timeYear": 375,
     "dailyMinutesDown": {
       "2025-09-20": 1097,
@@ -701,7 +703,8 @@
       "2026-05-22": 106,
       "2026-06-09": 257,
       "2026-06-08": 171,
-      "2026-06-21": 52
+      "2026-06-21": 52,
+      "2026-06-23": 5
     }
   },
   {
@@ -709,16 +712,16 @@
     "url": "https://lug.cs.uic.edu",
     "icon": "https://icons.duckduckgo.com/ip3/lug.cs.uic.edu.ico",
     "slug": "lug-uic-website-lug-cs-uic-edu",
-    "status": "up",
+    "status": "down",
     "uptime": "99.59%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.54%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.53%",
     "uptimeMonth": "96.90%",
     "uptimeYear": "99.59%",
     "time": 431,
     "timeDay": 575,
     "timeWeek": 449,
-    "timeMonth": 375,
+    "timeMonth": 365,
     "timeYear": 431,
     "dailyMinutesDown": {
       "2025-12-07": 34,
@@ -728,7 +731,8 @@
       "2026-05-22": 106,
       "2026-06-09": 1140,
       "2026-06-08": 171,
-      "2026-06-21": 47
+      "2026-06-21": 47,
+      "2026-06-23": 0
     }
   }
 ]
