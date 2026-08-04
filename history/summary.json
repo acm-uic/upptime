@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 132,
-    "timeDay": 134,
-    "timeWeek": 88,
-    "timeMonth": 114,
+    "timeDay": 167,
+    "timeWeek": 104,
+    "timeMonth": 116,
     "timeYear": 134,
     "dailyMinutesDown": {}
   },
@@ -27,10 +27,10 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "12.07%",
+    "uptimeYear": "12.08%",
     "time": 244,
-    "timeDay": 324,
-    "timeWeek": 202,
+    "timeDay": 258,
+    "timeWeek": 194,
     "timeMonth": 147,
     "timeYear": 223,
     "dailyMinutesDown": {
@@ -362,16 +362,16 @@
     "url": "https://acm.cs.uic.edu",
     "icon": "https://icons.duckduckgo.com/ip3/acm.cs.uic.edu.ico",
     "slug": "acm-uic-website-acm-cs-uic-edu",
-    "status": "down",
+    "status": "up",
     "uptime": "91.95%",
-    "uptimeDay": "98.64%",
-    "uptimeWeek": "76.40%",
-    "uptimeMonth": "94.43%",
+    "uptimeDay": "96.57%",
+    "uptimeWeek": "76.10%",
+    "uptimeMonth": "94.36%",
     "uptimeYear": "87.09%",
-    "time": 310,
-    "timeDay": 390,
-    "timeWeek": 346,
-    "timeMonth": 324,
+    "time": 311,
+    "timeDay": 434,
+    "timeWeek": 392,
+    "timeMonth": 327,
     "timeYear": 313,
     "dailyMinutesDown": {
       "2025-09-19": 118,
@@ -431,7 +431,7 @@
       "2026-07-09": 63,
       "2026-07-30": 1202,
       "2026-07-29": 1157,
-      "2026-08-04": 20
+      "2026-08-04": 49
     }
   },
   {
@@ -446,10 +446,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 450,
-    "timeDay": 166,
-    "timeWeek": 155,
-    "timeMonth": 144,
-    "timeYear": 437,
+    "timeDay": 242,
+    "timeWeek": 166,
+    "timeMonth": 148,
+    "timeYear": 436,
     "dailyMinutesDown": {}
   },
   {
@@ -457,17 +457,17 @@
     "url": "https://typesense.acmuic.org/health",
     "icon": "https://icons.duckduckgo.com/ip3/typesense.acmuic.org.ico",
     "slug": "acm-uic-website-typesense",
-    "status": "down",
+    "status": "up",
     "uptime": "77.01%",
-    "uptimeDay": "99.30%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.86%",
+    "uptimeDay": "97.23%",
+    "uptimeWeek": "99.60%",
+    "uptimeMonth": "99.79%",
     "uptimeYear": "86.61%",
-    "time": 447,
-    "timeDay": 420,
-    "timeWeek": 837,
+    "time": 446,
+    "timeDay": 299,
+    "timeWeek": 845,
     "timeMonth": 350,
-    "timeYear": 430,
+    "timeYear": 429,
     "dailyMinutesDown": {
       "2025-09-22": 271,
       "2025-09-21": 1440,
@@ -529,7 +529,7 @@
       "2026-06-24": 53,
       "2026-06-25": 123,
       "2026-07-09": 53,
-      "2026-08-04": 10
+      "2026-08-04": 40
     }
   },
   {
@@ -537,16 +537,16 @@
     "url": "https://umpf.acmuic.org",
     "icon": "https://icons.duckduckgo.com/ip3/umpf.acmuic.org.ico",
     "slug": "pathfinder",
-    "status": "down",
+    "status": "up",
     "uptime": "91.91%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.88%",
+    "uptimeDay": "97.57%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "99.81%",
     "uptimeYear": "87.02%",
     "time": 390,
     "timeDay": 196,
-    "timeWeek": 248,
-    "timeMonth": 240,
+    "timeWeek": 215,
+    "timeMonth": 241,
     "timeYear": 354,
     "dailyMinutesDown": {
       "2025-09-20": 1097,
@@ -605,7 +605,7 @@
       "2026-06-24": 48,
       "2026-06-25": 118,
       "2026-07-09": 48,
-      "2026-08-04": 5
+      "2026-08-04": 35
     }
   },
   {
@@ -613,17 +613,17 @@
     "url": "https://lug.cs.uic.edu",
     "icon": "https://icons.duckduckgo.com/ip3/lug.cs.uic.edu.ico",
     "slug": "lug-uic-website-lug-cs-uic-edu",
-    "status": "down",
-    "uptime": "99.59%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.23%",
-    "uptimeMonth": "99.72%",
-    "uptimeYear": "99.59%",
-    "time": 430,
-    "timeDay": 368,
-    "timeWeek": 477,
-    "timeMonth": 442,
-    "timeYear": 430,
+    "status": "up",
+    "uptime": "99.58%",
+    "uptimeDay": "97.90%",
+    "uptimeWeek": "98.94%",
+    "uptimeMonth": "99.66%",
+    "uptimeYear": "99.58%",
+    "time": 432,
+    "timeDay": 607,
+    "timeWeek": 536,
+    "timeMonth": 451,
+    "timeYear": 432,
     "dailyMinutesDown": {
       "2025-12-07": 34,
       "2025-12-31": 11,
@@ -637,7 +637,7 @@
       "2026-06-25": 113,
       "2026-07-09": 43,
       "2026-07-30": 77,
-      "2026-08-04": 0
+      "2026-08-04": 30
     }
   }
 ]
