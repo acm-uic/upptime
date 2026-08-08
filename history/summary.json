@@ -23,11 +23,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/acmuic.org.ico",
     "slug": "acm-uic-website-acmuic-org",
     "status": "down",
-    "uptime": "47.76%",
+    "uptime": "47.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "12.92%",
+    "uptimeYear": "13.04%",
     "time": 243,
     "timeDay": 148,
     "timeWeek": 175,
@@ -358,12 +358,12 @@
     "url": "https://acm.cs.uic.edu",
     "icon": "https://icons.duckduckgo.com/ip3/acm.cs.uic.edu.ico",
     "slug": "acm-uic-website-acm-cs-uic-edu",
-    "status": "up",
+    "status": "down",
     "uptime": "91.96%",
-    "uptimeDay": "93.62%",
-    "uptimeWeek": "97.40%",
-    "uptimeMonth": "93.87%",
-    "uptimeYear": "87.89%",
+    "uptimeDay": "92.25%",
+    "uptimeWeek": "97.20%",
+    "uptimeMonth": "93.83%",
+    "uptimeYear": "88.01%",
     "time": 311,
     "timeDay": 399,
     "timeWeek": 364,
@@ -425,7 +425,8 @@
       "2026-07-29": 1157,
       "2026-08-04": 49,
       "2026-08-06": 121,
-      "2026-08-07": 92
+      "2026-08-07": 92,
+      "2026-08-08": 20
     }
   },
   {
@@ -434,7 +435,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/plausible.acmuic.org.ico",
     "slug": "plausible-analytics",
     "status": "down",
-    "uptime": "75.72%",
+    "uptime": "75.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -451,12 +452,12 @@
     "url": "https://typesense.acmuic.org/health",
     "icon": "https://icons.duckduckgo.com/ip3/typesense.acmuic.org.ico",
     "slug": "acm-uic-website-typesense",
-    "status": "up",
-    "uptime": "77.08%",
-    "uptimeDay": "94.27%",
-    "uptimeWeek": "97.68%",
-    "uptimeMonth": "99.34%",
-    "uptimeYear": "87.42%",
+    "status": "down",
+    "uptime": "77.10%",
+    "uptimeDay": "93.58%",
+    "uptimeWeek": "97.58%",
+    "uptimeMonth": "99.32%",
+    "uptimeYear": "87.53%",
     "time": 435,
     "timeDay": 192,
     "timeWeek": 231,
@@ -521,7 +522,8 @@
       "2026-07-09": 53,
       "2026-08-04": 40,
       "2026-08-06": 112,
-      "2026-08-07": 82
+      "2026-08-07": 82,
+      "2026-08-08": 10
     }
   },
   {
@@ -529,12 +531,12 @@
     "url": "https://umpf.acmuic.org",
     "icon": "https://icons.duckduckgo.com/ip3/umpf.acmuic.org.ico",
     "slug": "pathfinder",
-    "status": "up",
+    "status": "down",
     "uptime": "91.93%",
-    "uptimeDay": "96.92%",
-    "uptimeWeek": "98.15%",
-    "uptimeMonth": "99.46%",
-    "uptimeYear": "87.83%",
+    "uptimeDay": "96.55%",
+    "uptimeWeek": "98.10%",
+    "uptimeMonth": "99.45%",
+    "uptimeYear": "87.95%",
     "time": 414,
     "timeDay": 5727,
     "timeWeek": 1427,
@@ -595,7 +597,8 @@
       "2026-07-09": 48,
       "2026-08-04": 35,
       "2026-08-06": 107,
-      "2026-08-07": 44
+      "2026-08-07": 44,
+      "2026-08-08": 5
     }
   },
   {
@@ -603,11 +606,11 @@
     "url": "https://lug.cs.uic.edu",
     "icon": "https://icons.duckduckgo.com/ip3/lug.cs.uic.edu.ico",
     "slug": "lug-uic-website-lug-cs-uic-edu",
-    "status": "up",
+    "status": "down",
     "uptime": "99.55%",
-    "uptimeDay": "97.04%",
+    "uptimeDay": "97.01%",
     "uptimeWeek": "98.26%",
-    "uptimeMonth": "99.33%",
+    "uptimeMonth": "99.32%",
     "uptimeYear": "99.55%",
     "time": 431,
     "timeDay": 332,
@@ -629,7 +632,8 @@
       "2026-07-30": 77,
       "2026-08-04": 30,
       "2026-08-06": 102,
-      "2026-08-07": 43
+      "2026-08-07": 43,
+      "2026-08-08": 0
     }
   }
 ]
