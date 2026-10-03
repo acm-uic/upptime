@@ -23,11 +23,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/acmuic.org.ico",
     "slug": "acm-uic-website-acmuic-org",
     "status": "down",
-    "uptime": "51.20%",
+    "uptime": "51.26%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "28.02%",
+    "uptimeYear": "28.29%",
     "time": 236,
     "timeDay": 0,
     "timeWeek": 0,
@@ -294,8 +294,7 @@
       "2025-10-07": 1440,
       "2025-10-06": 1440,
       "2025-10-05": 1440,
-      "2025-10-04": 1440,
-      "2025-10-03": 1440
+      "2025-10-04": 1440
     }
   },
   {
@@ -304,7 +303,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/acm.cs.uic.edu.ico",
     "slug": "acm-uic-website-acm-cs-uic-edu",
     "status": "up",
-    "uptime": "92.45%",
+    "uptime": "92.46%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -313,7 +312,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 317,
+    "timeYear": 318,
     "dailyMinutesDown": {
       "2025-12-07": 34,
       "2025-12-31": 12,
@@ -343,7 +342,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/plausible.acmuic.org.ico",
     "slug": "plausible-analytics",
     "status": "down",
-    "uptime": "77.32%",
+    "uptime": "77.34%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -352,7 +351,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 412,
+    "timeYear": 413,
     "dailyMinutesDown": {}
   },
   {
@@ -361,7 +360,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/typesense.acmuic.org.ico",
     "slug": "acm-uic-website-typesense",
     "status": "up",
-    "uptime": "78.57%",
+    "uptime": "78.60%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -370,7 +369,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 407,
+    "timeYear": 408,
     "dailyMinutesDown": {
       "2025-12-31": 11,
       "2026-01-01": 17,
@@ -399,7 +398,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/umpf.acmuic.org.ico",
     "slug": "pathfinder",
     "status": "up",
-    "uptime": "92.44%",
+    "uptime": "92.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -408,7 +407,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 374,
+    "timeYear": 375,
     "dailyMinutesDown": {
       "2025-12-31": 10,
       "2026-03-25": 37,
@@ -444,7 +443,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 435,
+    "timeYear": 436,
     "dailyMinutesDown": {
       "2025-12-07": 34,
       "2025-12-31": 11,
