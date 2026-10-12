@@ -2,6 +2,10 @@
 owner: acm-uic # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
 
+# Public endpoints need no monitoring secrets. Keep template updates from exporting all secrets.
+# Add specific secret names here if authenticated checks or notifications are configured.
+secrets: []
+
 sites:
   - name: ACM@UIC Website acm-uic.github.io
     url: https://acm-uic.github.io
